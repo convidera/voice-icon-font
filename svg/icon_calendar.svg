@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>10-Icons/Calendar/Ace Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atomic-Design-Libary" transform="translate(-1865.000000, -6408.000000)" fill="#3D4A51">
+            <g id="10-Icons/Calendar/Ace" transform="translate(1865.000000, 6408.000000)">
+                <path d="M18,7 L18,5 L20,5 L20,19 C20,19.5522847 19.5522847,20 19,20 L18,20 L1.5,20 L1,20 C0.44771525,20 0,19.5522847 0,19 L0,4 C2.22044605e-16,3.44771525 0.44771525,3 1,3 L1,3 L1.5,3 L4,3 L4,1 L4,1 C4,0.44771525 4.44771525,1.01453063e-16 5,0 C5.55228475,-1.01453063e-16 6,0.44771525 6,1 L6,3 L14,3 L14,1 L14,1 C14,0.44771525 14.4477153,1.01453063e-16 15,0 C15.5522847,-1.01453063e-16 16,0.44771525 16,1 L16,3 L19,3 C19.5522847,3 20,3.44771525 20,4 L20,5 L2,5 L2,7 L18,7 Z M18,9 L2,9 L2,18 L18,18 L18,9 Z M6,11 L14,11 C14.5522847,11 15,11.4477153 15,12 C15,12.5522847 14.5522847,13 14,13 L6,13 C5.44771525,13 5,12.5522847 5,12 C5,11.4477153 5.44771525,11 6,11 Z M6,14 L14,14 C14.5522847,14 15,14.4477153 15,15 C15,15.5522847 14.5522847,16 14,16 L6,16 C5.44771525,16 5,15.5522847 5,15 C5,14.4477153 5.44771525,14 6,14 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

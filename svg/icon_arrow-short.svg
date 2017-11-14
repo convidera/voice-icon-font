@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>07-Arrows/Small/Ace</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atomic-Design-Libary" transform="translate(-1870.000000, -6063.000000)" fill="#3D4A51">
+            <g id="07-Arrows/Short/Ace" transform="translate(1865.000000, 6056.000000)">
+                <path d="M13.848072,7.20405695 L10,11.0954684 L6.15192801,7.20405695 C5.88088613,6.93198102 5.44721911,6.93198102 5.20328141,7.20405695 C4.93223953,7.47613289 4.93223953,7.9114544 5.20328141,8.15632274 L9.0513534,12.0477342 L9.64577411,12.6444227 L9.64577411,12.6444227 C9.84066414,12.8400563 10.1572461,12.840659 10.3528796,12.645769 C10.3533292,12.6453211 10.353778,12.6448723 10.3542259,12.6444227 L10.9486466,12.0477342 L14.7967186,8.18498141 C15.0677605,7.91290547 15.0677605,7.47758397 14.7967186,7.23271562 C14.5542264,6.96063968 14.1191139,6.96063968 13.848072,7.20405695 Z" id="Arrow-Copy"></path>
+            </g>
+        </g>
+    </g>
+</svg>
