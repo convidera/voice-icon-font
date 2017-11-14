@@ -1,17 +1,3 @@
-@font-face {
-    font-family: 'voice-icons';
-    src: url('./voice-icons.ttf') format('truetype'),
-        url('./voice-icons.svg') format('svg'),
-        url('./voice-icons.woff') format('woff'),
-        url('./voice-icons.otf') format('opentype');
-    /* src: url('../fonts/voice-icons-new/voice-icons-new.eot?k0phzs#iefix') format('embedded-opentype'), */
-    /*url('../fonts/voice-icons-new/voice-icons-new.ttf?k0phzs') format('truetype'),
-    url('../fonts/voice-icons-new/voice-icons-new.woff?k0phzs') format('woff'),
-    url('../fonts/voice-icons-new/voice-icons-new.svg?k0phzs#icomoon') format('svg');*/
-    font-weight: normal;
-    font-style: normal;
-}
-
 .icon {
     font-family: 'voice-icons';
 }
