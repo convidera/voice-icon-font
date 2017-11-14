@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'voice-icons';
+    src: url('./voice-icons.ttf') format('truetype'),
+        url('./voice-icons.svg') format('svg'),
+        url('./voice-icons.woff') format('woff'),
+        url('./voice-icons.otf') format('opentype');
+    /* src: url('../fonts/voice-icons-new/voice-icons-new.eot?k0phzs#iefix') format('embedded-opentype'), */
+    /*url('../fonts/voice-icons-new/voice-icons-new.ttf?k0phzs') format('truetype'),
+    url('../fonts/voice-icons-new/voice-icons-new.woff?k0phzs') format('woff'),
+    url('../fonts/voice-icons-new/voice-icons-new.svg?k0phzs#icomoon') format('svg');*/
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icon {
+    font-family: 'voice-icons';
+}
+
+.icon::before {
+    display: block;
+}
+
+/* Arrows */
+.icon_arrow-double::before {
+    content: '\f900';
+}
+.icon_arrow-long::before {
+    content: '\f901';
+}
+.icon_arrow-short::before {
+    content: '\f902';
+}
+
+/* Sources */
+.icon_blog::before {
+    content: '\f903';
+}
+.icon_blog-filled::before {
+    content: '\f904';
+}
+.icon_facebook::before {
+    content: '\f905';
+}
+.icon_facebook-filled::before {
+    content: '\f906';
+}
+.icon_instagram::before {
+    content: '\f907';
+}
+.icon_instagram-filled::before {
+    content: '\f908';
+}
+.icon_linkedin::before {
+    content: '\f909';
+}
+.icon_linkedin-filled::before {
+    content: '\f90a';
+}
+.icon_twitter::before {
+    content: '\f90b';
+}
+.icon_twitter-filled::before {
+    content: '\f90c';
+}
+
+/* space for 3 sources is left blank here in the font */
+
+/* Misc */
+
+.icon_calendar::before {
+    content: '\f913';
+}
+.icon_chat-comment::before {
+    content: '\f914';
+}
+.icon_check::before {
+    content: '\f915';
+}
+.icon_close-delete::before {
+    content: '\f916';
+}
+.icon_image-hub::before {
+    content: '\f917';
+}
+.icon_indicator::before {
+    content: '\f918';
+}
+.icon_measure::before {
+    content: '\f919';
+}
+.icon_more-options::before {
+    content: '\f91a';
+}
+.icon_plus::before {
+    content: '\f91b';
+}
+.icon_settings::before {
+    content: '\f91c';
+}
+.icon_task::before {
+    content: '\f91d';
+}
+
+/* 50 spaces left free here for other Misc icons */
+
+.icon_bold::before {
+    content: '\f950';
+}
+.icon_italic::before {
+    content: '\f951';
+}
+.icon_underline::before {
+    content: '\f952';
+}
+
