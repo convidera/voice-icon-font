@@ -1,0 +1,18 @@
+{
+  "name": "voice-icon-font",
+  "version": "0.0.1",
+  "description": "Icon font for voice-mvp",
+  "main": "demo.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/convidera/voice-icon-font.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/convidera/voice-icon-font/issues"
+  },
+  "homepage": "https://github.com/convidera/voice-icon-font#readme"
+}
