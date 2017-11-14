@@ -10,11 +10,41 @@
 .icon_arrow-double::before {
     content: '\f900';
 }
-.icon_arrow-long::before {
+.icon_arrow-double-horizontal::before {
+    content: '\f900';
+    transform: rotate(90deg);
+}
+
+.icon_arrow-long-up::before {
+    content: '\f901';
+    transform: rotate(-90deg);
+}
+.icon_arrow-long-right::before {
     content: '\f901';
 }
-.icon_arrow-short::before {
+.icon_arrow-long-down::before {
+    content: '\f901';
+    transform: rotate(90deg);
+}
+.icon_arrow-long-left::before {
+    content: '\f901';
+    transform: rotate(180deg);
+}
+
+.icon_arrow-short-up::before {
     content: '\f902';
+    transform: rotate(180deg);
+}
+.icon_arrow-short-right::before {
+    content: '\f902';
+    transform: rotate(-90deg);
+}
+.icon_arrow-short-down::before {
+    content: '\f902';
+}
+.icon_arrow-short-left::before {
+    content: '\f902';
+    transform: rotate(90deg);
 }
 
 /* Sources */
