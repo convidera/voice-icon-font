@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'voice-icons';
-    src: url('./voice-icons.ttf') format('truetype'),
-        url('./voice-icons.svg') format('svg'),
-        url('./voice-icons.woff') format('woff'),
-        url('./voice-icons.otf') format('opentype');
+    src: url('./fonts/voice-icons.ttf') format('truetype'),
+        url('./fonts/voice-icons.svg') format('svg'),
+        url('./fonts/voice-icons.woff') format('woff'),
+        url('./fonts/voice-icons.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
