@@ -116,6 +116,12 @@
 .icon_task::before {
     content: '\f91d';
 }
+.icon_trash::before {
+    content: '\f91e';
+}
+.icon_link::before {
+    content: '\f91f';
+}
 
 /* 50 spaces left free here for other Misc icons */
 
