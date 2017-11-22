@@ -132,7 +132,13 @@
     content: '\f922';
 }
 .icon_single-image::before {
-    content: '\f922';
+    content: '\f923';
+}
+.icon_text::before {
+    content: '\f924';
+}
+.icon_video::before {
+    content: '\f925';
 }
 
 /* 50 spaces left free here for other Misc icons */
