@@ -122,6 +122,18 @@
 .icon_link::before {
     content: '\f91f';
 }
+.icon_orientation-horizontal::before {
+    content: '\f920';
+}
+.icon_orientation-square::before {
+    content: '\f921';
+}
+.icon_orientation-vertical::before {
+    content: '\f922';
+}
+.icon_single-image::before {
+    content: '\f922';
+}
 
 /* 50 spaces left free here for other Misc icons */
 
