@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="11px" viewBox="0 0 20 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>10-Icons/Orientation/Horizontal/Ace</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atomic-Design-Libary" transform="translate(-1851.000000, -7590.000000)" fill-rule="nonzero" fill="#3D4A51">
+            <g id="10-Icons/Orientation/Horizontal/Ace" transform="translate(1851.000000, 7586.000000)">
+                <path d="M2,6 L2,13 L18,13 L18,6 L2,6 Z M1,4 L19,4 C19.5522847,4 20,4.44771525 20,5 L20,14 C20,14.5522847 19.5522847,15 19,15 L1,15 C0.44771525,15 0,14.5522847 0,14 L0,5 C0,4.44771525 0.44771525,4 1,4 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
