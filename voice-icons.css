@@ -140,6 +140,12 @@
 .icon_video::before {
     content: '\f925';
 }
+.icon_round-alert::before {
+    content: '\f926';
+}
+.icon_round-success::before {
+    content: '\f927';
+}
 
 /* 50 spaces left free here for other Misc icons */
 
