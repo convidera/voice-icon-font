@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>10-Icons/Lock/Ace</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atomic-Design-Libary" transform="translate(-1866.000000, -8817.000000)" fill="#3D4A51">
+            <g id="10-Icons/Lock/Ace" transform="translate(1864.000000, 8816.000000)">
+                <path d="M13,3 L15,3 L15,6 L13,6 L13,3 Z M5,3 L7,3 L7,6 L5,6 L5,3 Z M6,1 L14,1 C14.5522847,1 15,1.44771525 15,2 L15,3 L5,3 L5,2 L5,2 C5,1.44771525 5.44771525,1 6,1 Z M3,6 L17,6 C17.5522847,6 18,6.44771525 18,7 L18,17 C18,17.5522847 17.5522847,18 17,18 L3,18 C2.44771525,18 2,17.5522847 2,17 L2,7 C2,6.44771525 2.44771525,6 3,6 L3,6 Z M4,8 L4,16 L16,16 L16,8 L4,8 Z M9,11 L11,11 L11,13 L9,13 L9,11 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
