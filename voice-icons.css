@@ -146,6 +146,12 @@
 .icon_round-success::before {
     content: '\f927';
 }
+.icon_filter::before {
+    content: '\f928';
+}
+.icon_lock::before {
+    content: '\f929';
+}
 
 /* 50 spaces left free here for other Misc icons */
 
