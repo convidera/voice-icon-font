@@ -152,6 +152,9 @@
 .icon_lock::before {
     content: '\f929';
 }
+.icon_round::before {
+    content: '\f92a';
+}
 
 /* 50 spaces left free here for other Misc icons */
 
