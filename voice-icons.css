@@ -48,10 +48,12 @@
 }
 
 /* Sources */
-.icon_blog::before {
+.icon_blog::before,
+.icon_wordpress::before {
     content: '\f903';
 }
-.icon_blog-filled::before {
+.icon_blog-filled::before,
+.icon_wordpress-filled::before {
     content: '\f904';
 }
 .icon_facebook::before {
